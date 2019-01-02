@@ -5,4 +5,4 @@ To run on command line, make sure you have the latest jre and javac version inst
 
 Future goals: runtime optimization, GUI
 
-updated Dec 9 2018
+updated Jan 1 2018
